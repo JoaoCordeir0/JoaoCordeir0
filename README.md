@@ -2,8 +2,6 @@
 
 # Hey there 👋
 
-“Você não crescerá a não ser que tente algo além daquilo que já domina.” — Ronald E. Osborn
-
 
 ```javascript
 const JoaoCordeiro = {
