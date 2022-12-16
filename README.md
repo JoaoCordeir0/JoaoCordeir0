@@ -6,12 +6,12 @@
 ```javascript
 const JoaoCordeiro = {
 
-  code: ['Java', 'Python', 'PHP', 'C'],
+  code: ['Java', 'Python', 'PHP', 'C', 'C#'],
 
   certifications: ['PHP COMMUNITY Summit 2022', 'Locaweb'],
 
   technologies: {
-    tools: ['Flask', 'Django'],    
+    tools: ['Flask', 'Django', 'Laravel'],    
     databases: ['SQL', 'MySQL', 'SQLite'],
     ides: ['VS Code', 'Pycharm'],
   },
