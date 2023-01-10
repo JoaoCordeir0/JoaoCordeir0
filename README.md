@@ -11,7 +11,7 @@ const JoaoCordeiro = {
   certifications: ['PHP COMMUNITY Summit 2022', 'Locaweb'],
 
   technologies: {
-    tools: ['Flask', 'Django', 'Laravel'],    
+    tools: ['Flask', 'Django', 'Phalcon', 'Laravel'],    
     databases: ['SQL', 'MySQL', 'SQLite'],
     ides: ['VS Code', 'Pycharm'],
   },
