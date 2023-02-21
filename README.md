@@ -6,7 +6,7 @@
 ```javascript
 const JoaoCordeiro = {
 
-  code: ['Java', 'Python', 'PHP', 'C', 'C#'],
+  code: ['Java', 'Python', 'PHP', 'C', 'C#', 'JavaScript'],
 
   certifications: ['PHP COMMUNITY Summit 2022', 'Locaweb'],
 
