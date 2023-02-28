@@ -8,7 +8,7 @@ const JoaoCordeiro = {
 
   code: ['Java', 'Python', 'PHP', 'C', 'C#', 'JavaScript'],
 
-  certifications: ['PHP COMMUNITY Summit 2022', 'Locaweb'],
+  certifications: ['PHP COMMUNITY Summit 2022 - Locaweb'],
 
   technologies: {
     tools: ['Flask', 'Django', 'Phalcon', 'Laravel'],    
