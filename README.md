@@ -12,7 +12,7 @@ const JoaoCordeiro = {
 
   technologies: {
     tools: ['Flask', 'Django', 'Phalcon', 'Laravel'],    
-    databases: ['SQL', 'MySQL', 'SQLite'],
+    databases: ['SQL', 'MySQL'],
     ides: ['VS Code', 'Pycharm'],
   },
   
