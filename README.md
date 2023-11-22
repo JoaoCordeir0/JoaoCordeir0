@@ -6,14 +6,18 @@
 ```javascript
 const JoaoCordeiro = {
 
-  code: ['Java', 'Python', 'PHP', 'C', 'C#', 'JavaScript', 'NodeJS'],
+  code: ['Java', 'Python', 'PHP', 'C#', 'JavaScript'],
 
-  certifications: ['PHP COMMUNITY Summit 2022 - Locaweb'],
+  certifications: [
+      'PHP COMMUNITY Summit 2022 - Locaweb',
+      'Minicurso: AWS - Escalabilidade e Resiliência | UNIFAE',
+      'Minicurso: Docker | UNIFAE'
+  ],
 
   technologies: {
-    tools: ['Flask', 'Django', 'Phalcon', 'Laravel'],    
-    databases: ['SQL', 'MySQL'],
-    ides: ['VS Code', 'Pycharm'],
+    tools: ['Flask', 'Django', 'Phalcon', 'Laravel', 'Vue', 'Slim', 'NodeJS'],    
+    databases: ['SQL', 'MySQL', 'PostgreSQL'],
+    ides: ['Visual Studio', 'VS Code', 'Pycharm', 'Android Studio', 'NetBeans'],
   },
   
   methodologies: ['Scrum', 'Kanban'], 
