@@ -1,83 +1,40 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jo%C3%A3o-cordeiro-47059b187/)
+<div style="width: 100%;">
+  <a href="https://github.com/JoaoCordeir0/JoaoCordeir0/blame/main/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 
-# Hey there 👋
+![](./profile-night-green.svg)
 
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoCordeir0&show_icons=true&theme=blue-green&hide_border=false&show_owner=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoCordeir0&theme=blue-green&hide_border=false&&layout=compact"/>
+</div>
 
-```javascript
-const JoaoCordeiro = {
+<!--<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JoaoCordeir0&layout=compact"/>
+</div>-->
 
-  code: ['Java', 'Python', 'PHP', 'C#', 'JavaScript'],
-
-  certifications: [
-      'PHP COMMUNITY Summit 2022 - Locaweb',
-      'Minicurso: AWS - Escalabilidade e Resiliência | UNIFAE',
-      'Minicurso: Docker | UNIFAE'
-  ],
-
-  technologies: {
-    tools: ['Flask', 'Django', 'Phalcon', 'Laravel', 'Vue', 'Slim', 'NodeJS'],    
-    databases: ['SQL', 'MySQL', 'PostgreSQL'],
-    ides: ['Visual Studio', 'VS Code', 'Pycharm', 'Android Studio', 'NetBeans'],
-  },
-  
-  methodologies: ['Scrum', 'Kanban'], 
-}
-```
-
-## &#x1f4c8; GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCordeir0&layout=compact&theme=tokyonight)](https://github.com/JoaoCordeir0)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoCordeir0&show_icons=true&theme=tokyonight)
-
-
-## 💼 Skills
-
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-php-informational?style=flat&logo=php&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-c-informational?style=flat&logo=c&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=Flask&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
-
-<details>
-<summary>More Skills</summary>
 <br>
-
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
-
-
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-
-</details>
-
-----
-
-<p align='center'>
-
-  <a href='https://github.com/JoaoCordeir0'>
-    <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/>
+<br>
+<div align="center">
+  <a href="https://wakatime.com/@018c3f5f-3d03-4c9a-b21c-947fb58b36d9">
+    <img src="https://wakatime.com/badge/user/018c3f5f-3d03-4c9a-b21c-947fb58b36d9.svg"/>
   </a>
+</div>
 
-  <a href='https://www.linkedin.com/in/jo%C3%A3o-cordeiro-47059b187/'>
-    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
+<br>
+<div align="center"> 
+  <a href="https://instagram.com/jvcordeir0/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
+  <a href="mailto:joaocordeiro2134@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/jvcordeiro2134/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
 
-</p>
-
-# [![JoaoCordeir0 header](img/github-contribution-grid-snake.svg)](https://github.com/JoaoCordeir0)
-
-----
+<br>
+<p align='center'><a href='https://github.com/JoaoCordeir0'><img src='https://profile-counter.glitch.me/JoaoCordeir0/count.svg' alt='Visitor Count'></a></p>
