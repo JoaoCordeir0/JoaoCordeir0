@@ -16,14 +16,6 @@
 </div>-->
 
 <br>
-<br>
-<div align="center">
-  <a href="https://wakatime.com/@018c3f5f-3d03-4c9a-b21c-947fb58b36d9">
-    <img src="https://wakatime.com/badge/user/018c3f5f-3d03-4c9a-b21c-947fb58b36d9.svg"/>
-  </a>
-</div>
-
-<br>
 <div align="center"> 
   <a href="https://instagram.com/jvcordeir0/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
